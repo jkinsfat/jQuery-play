@@ -1,0 +1,18 @@
+.bigRed {
+    font-size: 30px;
+    color: red;
+}
+.clickme {
+    margin-right: 300px;
+    display: inline-block;
+}
+.toggleSlide {
+    vertical-align: top;
+}
+img {
+    height: 150px;
+    display: none;
+}
+.nyahnyah {
+    display: none;
+}
